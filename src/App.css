@@ -1,7 +1,25 @@
 .App {
   text-align: center;
+  color: red;
+  margin: 25px;
+  
+}
+.result {
+  
+  margin: 25px;
+  
+}
+button{
+  cursor: pointer;
 }
 
+.Reset{
+  position: absolute;
+  top: 110px;
+  left: 620px;
+  text-size-adjust: calc(40);
+ 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
